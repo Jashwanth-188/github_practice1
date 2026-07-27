@@ -8,3 +8,5 @@ GITHUB IS USED TO UNDO ACTIONS TO OBSERVE THE CHANGES AND KEEP A TRACK OF THE CO
 COMMIT MAKES THE ACTION SAVED INTO THE REPO IN GITHUB
 
 we are understading branching now (branching is nothing but doing replica of main and use it thats it!!)
+
+what if i write in main in these same lines what happens lets see
